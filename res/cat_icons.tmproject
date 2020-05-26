@@ -1,0 +1,33 @@
+{
+    "version": 5,
+    "options": {
+        "extend": 0,
+        "layoutGap": 1,
+        "useExtension": 0,
+        "sizeMode": "2n",
+        "layoutMath": "2"
+    },
+    "projectName": "cat_icons",
+    "files": [
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_20.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_19.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_18.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_17.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_16.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_15.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_14.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_13.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_12.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_11.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_10.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_9.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_8.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_7.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_6.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_5.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_4.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_3.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_2.png",
+        "./../../../美术组/小游戏/旅行猫咪/切图/cat_icon_切图/img_cat_1.png"
+    ]
+}
